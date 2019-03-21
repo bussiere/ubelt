@@ -1,6 +1,13 @@
+Version: 0.8.0
+--------------
+* Add `ub.dict_diff`
+* Add some benchmarks
+* Fix GH #53
+
+
 Version: 0.7.1
 --------------
-* Fixed bug in `ub.dict_hist` when `ordered=True`. (half of the keys would be lost). Also effected `dict_take`.
+* Fixed bug in `ub.dict_hist` when `ordered=True`. (half of the keys would be lost). Also effected `dict_take`. Thanks to [cite Chris Funk].
 
 
 Version: 0.7.0
